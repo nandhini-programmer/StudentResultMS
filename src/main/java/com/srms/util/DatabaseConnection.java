@@ -3,7 +3,7 @@ package com.srms.util;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-
+// java MySQL Connector dependency is required in your project to use this class
 public class DatabaseConnection {
     
     // CHANGE THESE IF YOUR MYSQL PASSWORD IS DIFFERENT
